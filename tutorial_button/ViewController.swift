@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var label: UILabel!
     @IBAction func sayHello(_ sender: Any) {
-        label.text = "Hello world!"
+        label.text = "Hello World!"
     }
     override func viewDidLoad() {
         super.viewDidLoad()
